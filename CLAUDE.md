@@ -1,3 +1,5 @@
+- In all interactions and commit messages, be extremely concise and sacrifice grammar for the sake of concision.
+
 Skills are organized into bucket folders under `skills/`:
 
 - `engineering/` — daily code work
